@@ -207,3 +207,10 @@ marimo/_lsp/
 __marimo__/
 .pystele/
 run_example.py
+
+# local demos / experiments
+train.py
+restore_test.py
+
+# checkpoints
+snapshots/
